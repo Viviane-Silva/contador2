@@ -12,4 +12,4 @@ Atualização de elementos com innerText
 Funções e lógica básica
 
 🎯 Objetivo do projeto
-Criar uma interface web com um botão que, ao ser clicado, atualiza em tempo real a contagem de cliques exibida em um elemento "<p>" na tela.
+Criar uma interface web com um botão que, ao ser clicado, atualiza em tempo real a contagem de cliques exibida na tela.
